@@ -8,4 +8,5 @@
 
 ## Languages I use
 
-![html5](./images/html5.png width="100" heigth="100")
+![html5](./images/html5.png)
+
