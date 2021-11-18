@@ -9,3 +9,15 @@
 ## Languages I use
 
 ![html5](./images/html5.png)
+![markdown](./images/md.png)
+![css3](./images/css3.png)
+![javascript](./images/js.png)
+![jquery](./images/jq.png)
+![reactjs](./images/rx.png)
+![sveltejs](./images/sve.png)
+![nextjs](./images/nx.png)
+![sass](./images/sass.png)
+![bootstrap](./images/bs.png)
+![firebase](./images/fire.png)
+![git](./images/git.png)
+![chartjs](./images/chartjs.png)
