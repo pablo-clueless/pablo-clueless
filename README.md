@@ -1,8 +1,6 @@
 # Hi there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" /> 
 
-## I'm Samson Okunola
-
-<p style="text-align: center;">I'm a Frontend Developer looking for developer roles</p>
+## <center>I'm a Frontend Developer looking for developer roles</center>
 
 - 🔭 I’m currently working on minor projects to bolster my portfolio
 - 💻 Looking for junior developer/intern roles
