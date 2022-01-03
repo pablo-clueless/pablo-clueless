@@ -25,4 +25,4 @@
 ![chartjs](./images/chartjs.png)
 
 ## Social Media
-[![Twitter follower count](https://img.shields.io/twitter/follow/pablo_clueless?color=skyblue&style=for-the-badge)](https.twitter.com/pablo_clueless)
+[![Twitter follower count](https://img.shields.io/twitter/follow/pablo_clueless?color=skyblue&style=for-the-badge)](https://twitter.com/pablo_clueless)
