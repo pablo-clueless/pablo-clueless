@@ -8,7 +8,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pablo-clueless)](https://git.io/streak-stats)
 
-## Languages I use
+## Tools I use
 
 ![html5](./images/html5.png)
 ![markdown](./images/markdown.png)
