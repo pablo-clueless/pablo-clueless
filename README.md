@@ -1,5 +1,3 @@
-![profile views](https://komarev.com/ghpvc/?username=pablo-clueless&style=flat-square&color=ff69b4)
-
 # <p align="center">Hi there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" /> </p>
 
 ## <p align="center">I'm a Frontend Developer looking for developer roles</p>
@@ -14,7 +12,7 @@
 |:--------------------------------------------------------------------------------------------------------------------:|
 
 
-|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pablo-clueless&show_icons=true&theme=radical&count_private=true)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablo-clueless)](https://github.com/pablo_clueless/github-readme-stats)|
+|![Samson's GitHub stats](https://github-readme-stats.vercel.app/api?username=pablo-clueless&show_icons=true&theme=radical&count_private=true)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablo-clueless)](https://github.com/pablo_clueless/github-readme-stats)|
 |:------------------------------------------------------------------------:|:------------------------------------------------------------------------------:|
 
 ## Tools I use
@@ -66,10 +64,13 @@
    </td>
 </table>
 
-## Check out my blogs, pens and follow me on social media
+## Contact
+[![Twitter](https://img.shields.io/twitter/follow/pablo_clueless?color=blue&style=for-the-badge&logo=twitter)](https://twitter.com/pablo_clueless)
+[![LinkedIn](https://img.shields.io/badge/linkedin-samson--olawale--okunola-blue?style=for-the-badge&logo=linkedin&color=0a66c2)](https://www.linkedin.com/in/samson-olawale-okunola-76842a169/)\
+[![GMail](https://img.shields.io/badge/gmail-okunola%20samson-red?style=for-the-badge&logo=gmail)](https://mailto:smsnmicheal@gmail.com)
 
-[![Twitter](https://img.shields.io/badge/Twitter-pablo__clueless-blue?style=for-the-badge&logo=twitter)](https://twitter.com/pablo_clueless)
-[![LinkedIn](https://img.shields.io/badge/linkedin-samson--olawale--okunola-blue?style=for-the-badge&logo=linkedin&color=0a66c2)](https://www.linkedin.com/in/samson-olawale-okunola-76842a169/)
+## Check out my blogs & pen
+
 [![Hashnode](https://img.shields.io/badge/hashnode-frontendpablo-blue?style=for-the-badge&logo=hashnode)](https://frontendpablo.hashnode.dev)
 [![Tealfeed](https://img.shields.io/badge/tealfeed-pablo__clueless-blue?style=for-the-badge&logo=blogger&color=088882)](https://tealfeed.com/pablo_clueless)
 [![Codepen](https://img.shields.io/badge/codepen-pablo--clueless%20-black?style=for-the-badge&logo=codepen)](https://codepen.io/pablo-clueless)
