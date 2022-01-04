@@ -1,15 +1,13 @@
 # <p align="center">Hi there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" /> </p>
 
+![brand]('./brand.png')
 ## <p align="center">I'm a Frontend Developer looking for developer roles</p>
 
-<pre align="center">
-- *🔭 I’m currently working on minor projects to bolster my portfolio.*
-- *💻 Looking for junior developer roles.*
-- *🚀 looking to collaborate on **web and opensource projects**.*
-</pre>
+- 🔭 I’m currently working on minor projects to bolster my portfolio*
+- 💻 Looking for junior developer roles
+- 🚀 looking to collaborate on **web and opensource projects**
 
-|[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pablo-clueless)](https://git.io/streak-stats)|
-|:--------------------------------------------------------------------------------------------------------------------:|
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pablo-clueless)](https://git.io/streak-stats)
 
 |![Samson's GitHub stats](https://github-readme-stats.vercel.app/api?username=pablo-clueless&show_icons=true&theme=radical&count_private=true)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablo-clueless)](https://github.com/pablo_clueless/github-readme-stats)|
 |:------------------------------------------------------------------------:|:------------------------------------------------------------------------------:|
