@@ -19,7 +19,43 @@
    <td>
       <img src="./images/jscript.png">
    </td>
+    <td>
+      <img src="./images/jquery.png">
+   </td>
+    <td>
+      <img src="./images/reactjs.png">
+   </td>
+    <td>
+      <img src="./images/nextjs.png">
+   </td>
+    <td>
+      <img src="./images/sveltejs.png">
+   </td>
+    <td>
+      <img src="./images/css3.png">
+   </td>
+    <td>
+      <img src="./images/sass.png">
+   </td>
+    <td>
+      <img src="./images/bs.png">
+   </td>
+    <td>
+      <img src="./images/html5.png">
+   </td>
 </tr>
+ <td>
+      <img src="./images/markdown.png">
+   </td>
+    <td>
+      <img src="./images/fire.png">
+   </td>
+    <td>
+      <img src="./images/git.png">
+   </td>
+    <td>
+      <img src="./images/chartjs.png">
+   </td>
 </table>
 
 |![html5](./images/html5.png)|![markdown](./images/markdown.png)|![css3](./images/css3.png)|![jscr](./images/jscript.png)|![jquery](./images/jquery.png)|![reactjs](./images/reactjs.png)|
