@@ -10,6 +10,7 @@
 
 ## Tools I use
 
+|                             |                                   |                          |                             |                              |                                |
 |:---------------------------:|:---------------------------------:|:------------------------:|:---------------------------:|:----------------------------:|:------------------------------:|
 |![html5](./images/html5.png) | ![markdown](./images/markdown.png)|![css3](./images/css3.png)|![jscr](./images/jscript.png)|![jquery](./images/jquery.png)|![reactjs](./images/reactjs.png)|
 |![sveltejs](./images/sveltejs.png)|![nextjs](./images/nextjs.png)|![sass](./images/sass.png)|![bootstrap](./images/bs.png)|![firebase](./images/fire.png)|![git](./images/git.png)|
