@@ -43,7 +43,7 @@
       <img src="./images/html5.png">
    </td>
    <td>
-      <img src="./images/nodejs.png">
+      <img src="./images/nodejs.png" width="30px">
    </td>
 </tr>
     <td>
@@ -64,9 +64,9 @@
 
 <p align="center">
    <a href="https://frontendpablo.hashnode.dev">
-      <img src="./images/brand-icon.png" width="50px">
+      <img src="./images/brand-icon.png" width="50px" margin="50px">
    </a>
    <a href="https://tealfeed.com/pablo-clueless">
-      <img src="./images/tealfeed.jpg" width="50px">
+      <img src="./images/tealfeed.jpg" width="50px" margin="50px">
    </a>
 <p>
