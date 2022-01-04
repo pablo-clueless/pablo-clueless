@@ -1,6 +1,7 @@
 # <p align="center">Hi there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" /> </p>
 
-![brand]('./brand.png')
+<img scr="./brand.png">
+
 ## <p align="center">I'm a Frontend Developer looking for developer roles</p>
 
 - 🔭 I’m currently working on minor projects to bolster my portfolio*
@@ -33,7 +34,7 @@
 
 ## Contact
 [![Twitter](https://img.shields.io/twitter/follow/pablo_clueless?color=blue&style=for-the-badge&logo=twitter)](https://twitter.com/pablo_clueless)
-[![LinkedIn](https://img.shields.io/badge/linkedin-samson--olawale--okunola-blue?style=for-the-badge&logo=linkedin&color=0a66c2)](https://www.linkedin.com/in/samson-olawale-okunola-76842a169/)\
+[![LinkedIn](https://img.shields.io/badge/linkedin-samson%20okunola-blue?style=for-the-badge&logo=linkedin&color=0a66c2)](https://www.linkedin.com/in/samson-olawale-okunola-76842a169/)
 [![GMail](https://img.shields.io/badge/gmail-okunola%20samson-red?style=for-the-badge&logo=gmail)](mailto:smsnmicheal@gmail.com)
 
 ## Check out my blogs & pen
