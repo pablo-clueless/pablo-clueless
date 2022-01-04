@@ -6,13 +6,9 @@
 - 💻 Looking for junior developer roles
 - 🚀 looking to collaborate on **web and opensource projects**
 
-<table align="center">
-   <tr>
-      <td>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pablo-clueless)](https://git.io/streak-stats)
-   </td>
-   </tr>
-</table>
+|[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pablo-clueless)](https://git.io/streak-stats)|
+|:--------------------------------------------------------------------------------------------------------------------:|
+
 
 |![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pablo-clueless&show_icons=true&theme=radical&count_private=true)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablo-clueless)](https://github.com/pablo_clueless/github-readme-stats)|
 |:------------------------------------------------------------------------:|:------------------------------------------------------------------------------:|
@@ -68,5 +64,5 @@
 
 ## Check out my blogs
 
-Hashnode: <https://frontendpablo.hashnode.dev>
-Tealfeed: <https://tealfeed.com/pablo_clueless>
+- Hashnode: <https://frontendpablo.hashnode.dev>
+- Tealfeed: <https://tealfeed.com/pablo_clueless>
