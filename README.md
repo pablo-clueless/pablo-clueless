@@ -62,5 +62,11 @@
 
 ## Check out my blogs
 
-![Hashnode]('./images/brand-icon.png'): [Frontend with Pablo](https://frontendpablo.hashnode.dev)
-![Tealfeed]('./images/tealfeed.jpg'): [Tealfeed/@pablo_clueless](https://tealfeed.com/pablo_clueless)
+<p align="center">
+   <a href="https://frontendpablo.hashnode.dev">
+      <img src="./images/brand-icon.png">
+   </a>
+   <a href="https://tealfeed.com/pablo-clueless">
+      <img src="./images/tealfeed.jpg">
+   </a>
+<p>
