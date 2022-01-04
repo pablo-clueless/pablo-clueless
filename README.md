@@ -6,12 +6,16 @@
 - 💻 Looking for junior developer/intern roles
 - 🚀 looking to collaborate on **web and opensource projects**
 
+<p aligh="center">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pablo-clueless)](https://git.io/streak-stats)
+</p>
 
 ## Tools I use
 
+<p align="center">
 |                             |                                   |                          |                             |                              |                                |
 |:---------------------------:|:---------------------------------:|:------------------------:|:---------------------------:|:----------------------------:|:------------------------------:|
 |![html5](./images/html5.png) | ![markdown](./images/markdown.png)|![css3](./images/css3.png)|![jscr](./images/jscript.png)|![jquery](./images/jquery.png)|![reactjs](./images/reactjs.png)|
 |![sveltejs](./images/sveltejs.png)|![nextjs](./images/nextjs.png)|![sass](./images/sass.png)|![bootstrap](./images/bs.png)|![firebase](./images/fire.png)|![git](./images/git.png)|
 |![chartjs](./images/chartjs.png)|
+</p>
