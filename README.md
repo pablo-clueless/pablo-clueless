@@ -8,16 +8,8 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pablo-clueless)](https://git.io/streak-stats)
 
-<table>
-<tr>
-   <td>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pablo-clueless&show_icons=true&theme=radical&count_private=true)
-   </td>
-   <td>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablo-clueless)](https://github.com/anuraghazra/github-readme-stats)
-   </td>
-</tr>
-</table>
+|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pablo-clueless&show_icons=true&theme=radical&count_private=true)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablo-clueless)](https://github.com/anuraghazra/github-readme-stats)|
+|:------------------------------------------------------------------------:|:------------------------------------------------------------------------------:|
 
 ## Tools I use
 
