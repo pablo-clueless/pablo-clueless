@@ -1,10 +1,14 @@
+![profile views](https://komarev.com/ghpvc/?username=pablo-clueless&style=flat-square&color=ff69b4)
+
 # <p align="center">Hi there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" /> </p>
 
 ## <p align="center">I'm a Frontend Developer looking for developer roles</p>
 
+<p align="center">
 - 🔭 I’m currently working on minor projects to bolster my portfolio
 - 💻 Looking for junior developer roles
 - 🚀 looking to collaborate on **web and opensource projects**
+</p>
 
 |[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pablo-clueless)](https://git.io/streak-stats)|
 |:--------------------------------------------------------------------------------------------------------------------:|
@@ -62,9 +66,10 @@
    </td>
 </table>
 
-## Check out my blogs and follow me on social media
+## Check out my blogs, pens and follow me on social media
 
 [![Twitter](https://img.shields.io/badge/Twitter-pablo__clueless-blue?style=for-the-badge&logo=twitter)](https://twitter.com/pablo_clueless)
 [![LinkedIn](https://img.shields.io/badge/linkedin-samson--olawale--okunola-blue?style=for-the-badge&logo=linkedin&color=0a66c2)](https://www.linkedin.com/in/samson-olawale-okunola-76842a169/)
 [![Hashnode](https://img.shields.io/badge/hashnode-frontendpablo-blue?style=for-the-badge&logo=hashnode)](https://frontendpablo.hashnode.dev)
 [![Tealfeed](https://img.shields.io/badge/tealfeed-pablo__clueless-blue?style=for-the-badge&logo=blogger&color=088882)](https://tealfeed.com/pablo_clueless)
+[![Codepen](https://img.shields.io/badge/codepen-pablo--clueless%20-black?style=for-the-badge&logo=codepen)](https://codepen.io/pablo-clueless)
