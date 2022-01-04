@@ -1,6 +1,6 @@
 # <p align="center">Hi there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" /> </p>
 
-![brand]('./brand.png')
+![brand](./brand.png)
 
 ## <p align="center">I'm a Frontend Developer looking for developer roles</p>
 
