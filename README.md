@@ -64,9 +64,9 @@
 
 <p align="center">
    <a href="https://frontendpablo.hashnode.dev">
-      <img src="./images/brand-icon.png">
+      <img src="./images/brand-icon.png" width="50px">
    </a>
    <a href="https://tealfeed.com/pablo-clueless">
-      <img src="./images/tealfeed.jpg">
+      <img src="./images/tealfeed.jpg" width="50px">
    </a>
 <p>
