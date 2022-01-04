@@ -3,7 +3,7 @@
 ## <p align="center">I'm a Frontend Developer looking for developer roles</p>
 
 - 🔭 I’m currently working on minor projects to bolster my portfolio
-- 💻 Looking for junior developer/intern roles
+- 💻 Looking for junior developer roles
 - 🚀 looking to collaborate on **web and opensource projects**
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pablo-clueless)](https://git.io/streak-stats)
@@ -14,10 +14,48 @@
 
 ## Tools I use
 
-|                             |                                   |                          |                             |                              |                                |
-|:---------------------------:|:---------------------------------:|:------------------------:|:---------------------------:|:----------------------------:|:------------------------------:|
-|![html5](./images/html5.png) | ![markdown](./images/markdown.png)|![css3](./images/css3.png)|![jscr](./images/jscript.png)|![jquery](./images/jquery.png)|![reactjs](./images/reactjs.png)|
-|![sveltejs](./images/sveltejs.png)|![nextjs](./images/nextjs.png)|![sass](./images/sass.png)|![bootstrap](./images/bs.png)|![firebase](./images/fire.png)|![git](./images/git.png)|
-|![chartjs](./images/chartjs.png)|
+<table>
+<tr>
+   <td>
+      <img scr="./images/jscript.png" alt="JavaScript">
+   </td>
+   <td>
+      <img scr="./images/jquery.png" alt="jQuery">
+   </td>
+   <td>
+      <img scr="./images/reactjs.png" alt="React">
+   </td>
+   <td>
+      <img scr="./images/nextjs.png" alt="Next.js">
+   </td>
+   <td>
+      <img scr="./images/sveltejs.png" alt="Sveltejs">
+   </td>
+   <td>
+      <img scr="./images/css3.png" alt="CSS3">
+   </td>
+   <td>
+      <img scr="./images/sass.png" alt="Sass">
+   </td>
+   <td>
+      <img scr="./images/bs.png" alt="Bootstrap">
+   </td>
+   <td>
+      <img scr="./images/html5.png" alt="HTML5">
+   </td>
+   <td>
+      <img scr="./images/markdown.png" alt="Markdown">
+   </td>
+    <td>
+      <img scr="./images/fire.png" alt="Firebase">
+   </td>
+    <td>
+      <img scr="./images/git.png" alt="Git">
+   </td>
+    <td>
+      <img scr="./images/chartjs.png" alt="Chartjs">
+   </td>
+</tr>
+</table>
 
-## Social
+## Follow me on my handles
