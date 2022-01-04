@@ -64,7 +64,7 @@
 
 ## Check out my blogs and follow me on social media
 
-![Twitter](https://img.shields.io/badge/Twitter-pablo__clueless-blue?style=for-the-badge&logo=twitter?link=http://&link=https://twitter.com/pablo_clueless)
+![Twitter](https://img.shields.io/badge/Twitter-pablo__clueless-blue?style=for-the-badge&logo=twitter?link=https://twitter.com/pablo_clueless&link=https://twitter.com/pablo_clueless)
 ![[LinkedIn](https://img.shields.io/badge/linkedin-samson--olawale--okunola-blue?style=for-the-badge&logo=linkedin&color=0a66c2)](https://www.linkedin.com/in/samson-olawale-okunola-76842a169/)
 ![[Hashnode](https://img.shields.io/badge/hashnode-frontendpablo-blue?style=for-the-badge&logo=hashnode)](https://frontendpablo.hashnode.dev)
 ![[Tealfeed](https://img.shields.io/badge/tealfeed-pablo__clueless-blue?style=for-the-badge&logo=blogger&color=088882)](https://tealfeed.com/pablo_clueless)
