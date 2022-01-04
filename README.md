@@ -8,7 +8,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pablo-clueless)](https://git.io/streak-stats)
 
-|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pablo-clueless&show_icons=true&theme=radical&count_private=true)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablo-clueless)](https://github.com/anuraghazra/github-readme-stats)|
+|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pablo-clueless&show_icons=true&theme=radical&count_private=true)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablo-clueless)](https://github.com/pablo_clueless/github-readme-stats)|
 |:------------------------------------------------------------------------:|:------------------------------------------------------------------------------:|
 
 ## Tools I use
@@ -42,8 +42,11 @@
     <td>
       <img src="./images/html5.png">
    </td>
+   <td>
+      <img src="./images/nodejs.png">
+   </td>
 </tr>
- <td>
+    <td>
       <img src="./images/markdown.png">
    </td>
     <td>
@@ -57,4 +60,7 @@
    </td>
 </table>
 
-## Social
+## Check out my blogs
+
+![Hashnode]('./images/brand-icon.png'): [Frontend with Pablo](https://frontendpablo.hashnode.dev)
+![Tealfeed]('./images/tealfeed.jpg'): [Tealfeed/@pablo_clueless](https://tealfeed.com/pablo_clueless)
