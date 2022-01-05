@@ -10,7 +10,7 @@
 - 💻 Looking for junior developer roles
 - 🚀 looking to collaborate on **web and opensource projects**
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pablo-clueless&background=be4989&border=4952b7&ring=ffffff&fire=4952b7)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pablo-clueless&border=4952b7&fire=4952b7)](https://git.io/streak-stats)
 
 |![Samson's GitHub stats](https://github-readme-stats.vercel.app/api?username=pablo-clueless&show_icons=true&theme=radical&count_private=true)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablo-clueless)](https://github.com/pablo_clueless/github-readme-stats)|
 |:------------------------------------------------------------------------:|:------------------------------------------------------------------------------:|
