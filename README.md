@@ -7,7 +7,7 @@
 ## <p align="center">I'm a Frontend Developer looking for developer roles</p>
 
 - 🔭 I’m currently working on minor projects to bolster my portfolio
-- 💻 Looking for junior developer roles
+- 💻 Actively ooking for developer roles
 - 🚀 looking to collaborate on **web and opensource projects**
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pablo-clueless)](https://git.io/streak-stats)
