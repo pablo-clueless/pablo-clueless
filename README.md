@@ -4,11 +4,11 @@
    <img src="./brand.png" width="800px">
 </p>
 
-## <p align="center">I'm a Frontend Developer looking for developer roles</p>
+## <p align="center">I'm a self-taught Frontend Web Developer and Blockchain enthusiast based in Lagos, Nigeria. I love minimalist & cool designs and animations. I spend most of my time either writing new codes or reviewing previous ones, adhering to real applications implementation with the knowledge and understanding of web development concepts.
 
-- 🔭 I’m currently working on minor projects to bolster my portfolio
-- 💻 Actively ooking for developer roles
-- 🚀 looking to collaborate on **web and opensource projects**
+I like looking for solutions and creating a great user experience. I've worked with other developers on projects and created several working SPAs and websites that are maintainable and scalable.
+
+I like pop music and good food. When I'm not coding, I'm either reading, playing video games or writing.</p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pablo-clueless)](https://git.io/streak-stats)
 
