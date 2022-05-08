@@ -7,7 +7,7 @@
 #### <p align="center" >I'm a self-taught Frontend Web Developer and Blockchain enthusiast based in Lagos, Nigeria. I love minimalist & cool designs and animations. I spend most of my time either writing new codes or reviewing previous ones, adhering to real applications implementation with the knowledge and understanding of web development concepts. I like looking for solutions and creating a great user experience. I've worked with other developers on projects and created several working SPAs and websites that are maintainable and scalable. I like pop music and good food. When I'm not coding, I'm either reading, playing video games or writing. If you need a developer to jump on a challenging and interesting project, I'm just a click away.</p>
 
 <p align="center">
-   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pablo-clueless)](https://git.io/streak-stats)
+   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pablo-clueless)](https://git.io/streak-stats)]
 </p>
 
 <!-- |![Samson's GitHub stats](https://github-readme-stats.vercel.app/api?username=pablo-clueless&show_icons=true&theme=radical&count_private=true)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablo-clueless)](https://github.com/pablo_clueless/github-readme-stats)|
