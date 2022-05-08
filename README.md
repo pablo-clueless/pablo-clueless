@@ -1,15 +1,12 @@
 # <p align="center">Hi there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" /> </p>
 
 <p align="center">
-   <img src="https://drive.google.com/file/d/1zX6mw6nyRZ7bCCmef__ZjHyyLI2x3KPv/view?usp=sharing" width="800px" >
+   <img src="/branding.gif" width="800px" >
 </p>
 
-#### <p align="center" >I'm a Web Developer and Blockchain enthusiast based in Lagos, Nigeria. I love minimalist & cool designs and animations. I like pop music and good food. When I'm not coding, I'm either reading, playing video games or writing. If you need a developer to jump on a challenging and interesting project, I'm just a click away.</p>
+I'm a Web Developer and Blockchain enthusiast based in Lagos, Nigeria. I love minimalist & cool designs and animations. I like pop music and good food. When I'm not coding, I'm either reading, playing video games or writing. If you need a developer to jump on a challenging and interesting project, I'm just a click away.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pablo-clueless)](https://git.io/streak-stats)]
-
-<!-- |![Samson's GitHub stats](https://github-readme-stats.vercel.app/api?username=pablo-clueless&show_icons=true&theme=radical&count_private=true)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablo-clueless)](https://github.com/pablo_clueless/github-readme-stats)|
-|:------------------------------------------------------------------------:|:------------------------------------------------------------------------------:| -->
 
 ## Tools I use
 
@@ -25,14 +22,16 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
-
 ## Contact
+
 [![Twitter](https://img.shields.io/twitter/follow/pablo_clueless?color=blue&style=for-the-badge&logo=twitter)](https://twitter.com/pablo_clueless)
 [![LinkedIn](https://img.shields.io/badge/linkedin-samson%20okunola-blue?style=for-the-badge&logo=linkedin&color=0a66c2)](https://www.linkedin.com/in/samson-okunola/)
 [![GMail](https://img.shields.io/badge/gmail-okunola%20samson-red?style=for-the-badge&logo=gmail)](mailto:smsnmicheal@gmail.com)
 
-# I write on Hashnode
+## I write on Hashnode
+
 [![Hashnode](https://img.shields.io/badge/hashnode-frontendpablo-blue?style=for-the-badge&logo=hashnode)](https://frontendpablo.hashnode.dev)
 
-# Checkout useful code examples and snippets
+## Checkout useful code examples and snippets
+
 [![Codepen](https://img.shields.io/badge/codepen-pablo--clueless%20-black?style=for-the-badge&logo=codepen)](https://codepen.io/pablo-clueless)
