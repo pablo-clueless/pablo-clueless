@@ -1,5 +1,3 @@
-# <p align="center">Hi there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" /> </p>
-
 <p align="center">
    <img src="/branding.gif" width="800px" >
 </p>
