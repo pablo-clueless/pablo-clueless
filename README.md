@@ -1,7 +1,7 @@
 # <p align="center">Hi there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" /> </p>
 
 <p align="center">
-   <img src="./brand.png" width="800px">
+   <img src="https://drive.google.com/file/d/1zX6mw6nyRZ7bCCmef__ZjHyyLI2x3KPv/view?usp=sharing" width="800px">
 </p>
 
 #### <p align="center" >I'm a Web Developer and Blockchain enthusiast based in Lagos, Nigeria. I love minimalist & cool designs and animations. I like pop music and good food. When I'm not coding, I'm either reading, playing video games or writing. If you need a developer to jump on a challenging and interesting project, I'm just a click away.</p>
