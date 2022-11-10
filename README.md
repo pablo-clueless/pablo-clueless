@@ -12,7 +12,7 @@ I'm a Web Developer and Blockchain enthusiast based in Lagos, Nigeria. I love mi
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Typescript](https://img.shields.io/badge/typescript-%3178C6?style=for-the-badge&logo=typescript)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React-Native](https://img.shields.io/badge/react-native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React-Native](https://img.shields.io/badge/react-native--%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Solidity](https://img.shields.io/badge/solidity-black?style=for-the-badge&logo=solidity)
 ![Sass](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
