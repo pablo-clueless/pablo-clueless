@@ -2,6 +2,7 @@
    <img src="/branding.gif" width="800px" >
 </p>
 
+# Web | Mobile | Web3
 I'm a Web Developer and Blockchain enthusiast based in Lagos, Nigeria. I love minimalist & cool designs and animations. I like pop music and good food. When I'm not coding, I'm either reading, playing video games or writing. If you need a developer to jump on a challenging and interesting project, I'm just a click away.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pablo-clueless)](https://git.io/streak-stats)
@@ -11,6 +12,7 @@ I'm a Web Developer and Blockchain enthusiast based in Lagos, Nigeria. I love mi
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Typescript](https://img.shields.io/badge/typescript-%3178C6?style=for-the-badge&logo=typescript)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React-Native](https://img.shields.io/badge/react-native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Solidity](https://img.shields.io/badge/solidity-black?style=for-the-badge&logo=solidity)
 ![Sass](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
