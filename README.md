@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="/branding.gif" width="800px" >
+   <img src="/pablo-clueless.png" width="800px" >
 </p>
 
 ## me?
@@ -27,5 +27,7 @@ I am passionate about web and mobile development. I'm currently crunching number
 ## check out my contents
 
 [![Hashnode](https://img.shields.io/badge/hashnode-frontendpablo-blue?style=for-the-badge&logo=hashnode)](https://frontendpablo.hashnode.dev)
-
 [![Codepen](https://img.shields.io/badge/codepen-pablo--clueless%20-black?style=for-the-badge&logo=codepen)](https://codepen.io/pablo-clueless)
+
+## download my resume
+<a id='resume' href='/Okunola-Samson.pdf' download>download resume</a>
