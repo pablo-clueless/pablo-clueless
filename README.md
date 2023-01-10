@@ -2,12 +2,12 @@
    <img src="/branding.gif" width="800px" >
 </p>
 
-## Web | Mobile | Web3
-I'm a Web Developer and Blockchain enthusiast based in Lagos, Nigeria. I love minimalist & cool designs and animations. I like pop music and good food. When I'm not coding, I'm either reading, playing video games or writing. If you need a developer to jump on a challenging and interesting project, I'm just a click away.
+## me?
+I am passionate about web and mobile development. I'm currently crunching numbers at ![Zummit Africa](https://github.com/Zummit-Africa-Inc) and ![onboardng](https://github.com/onboardng). Looking forward to making something useful out of the decentralized web. I occassionally tweet about web development.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pablo-clueless)](https://git.io/streak-stats)
 
-## Tools I use
+## tools I use
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Typescript](https://img.shields.io/badge/typescript-%3178C6?style=for-the-badge&logo=typescript)
@@ -16,18 +16,16 @@ I'm a Web Developer and Blockchain enthusiast based in Lagos, Nigeria. I love mi
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Solidity](https://img.shields.io/badge/solidity-black?style=for-the-badge&logo=solidity)
 ![Sass](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![GraphQL](https://img.shields.io/badge/graphql-%20-%23E10098?style=for-the-badge&logo=GraphQL)
 
-## Contact
+## wanna contact me??
 
 [![Twitter](https://img.shields.io/twitter/follow/pablo_clueless?color=blue&style=for-the-badge&logo=twitter)](https://twitter.com/pablo_clueless)
 [![LinkedIn](https://img.shields.io/badge/linkedin-samson%20okunola-blue?style=for-the-badge&logo=linkedin&color=0a66c2)](https://www.linkedin.com/in/samson-okunola/)
 [![GMail](https://img.shields.io/badge/gmail-okunola%20samson-red?style=for-the-badge&logo=gmail)](mailto:smsnmicheal@gmail.com)
 
-## I write on Hashnode
+## check out my contents
 
 [![Hashnode](https://img.shields.io/badge/hashnode-frontendpablo-blue?style=for-the-badge&logo=hashnode)](https://frontendpablo.hashnode.dev)
-
-## Checkout useful code examples and snippets
 
 [![Codepen](https://img.shields.io/badge/codepen-pablo--clueless%20-black?style=for-the-badge&logo=codepen)](https://codepen.io/pablo-clueless)
