@@ -3,7 +3,7 @@
 </p>
 
 ## Samson??
-I am passionate about web and mobile development. I'm currently crunching numbers at ![Zummit Africa](https://github.com/Zummit-Africa-Inc) and ![onboardng](https://github.com/onboardng). Looking forward to making something useful out of the decentralized web. I occassionally tweet about web development.
+I am passionate about web and mobile development. I'm currently crunching numbers as a Lead at ![Zummit Africa](https://github.com/Zummit-Africa-Inc). Looking forward to making something useful out of the decentralized web. I occassionally tweet about web development.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pablo-clueless)](https://git.io/streak-stats)
 
@@ -30,5 +30,3 @@ I am passionate about web and mobile development. I'm currently crunching number
 [![Hashnode](https://img.shields.io/badge/hashnode-frontendpablo-blue?style=for-the-badge&logo=hashnode)](https://frontendpablo.hashnode.dev)
 [![Codepen](https://img.shields.io/badge/codepen-pablo--clueless%20-black?style=for-the-badge&logo=codepen)](https://codepen.io/pablo-clueless)
 
-## download my resume
-<a id='resume' href='/Okunola-Samson.pdf' download>download resume</a>
