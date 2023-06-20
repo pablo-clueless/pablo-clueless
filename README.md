@@ -3,7 +3,7 @@
 </p>
 
 ## Samson??
-I am passionate about web and mobile development. I'm currently crunching numbers as a Lead at ![Zummit Africa](https://github.com/Zummit-Africa-Inc). Looking forward to making something useful out of the decentralized web. I occassionally tweet about web development.
+I am passionate about web and mobile development. I'm currently crunching numbers as a Lead at [Zummit Africa](https://github.com/Zummit-Africa-Inc). Looking forward to making something useful out of the decentralized web. I occassionally tweet about web development.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pablo-clueless)](https://git.io/streak-stats)
 
