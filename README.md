@@ -3,7 +3,7 @@
 </p>
 
 ### /about.
-I am a full stack developer with love for coding. The endless possibilities of the web fuels my passion. I constantly endeavor to get better and surpass my threshold to deliver outstanding results. I am currently crunching numbers as a frontend developer at [Zummit Africa](https://github.com/Zummit-Africa-Inc).
+I am a full stack developer with love for coding. The endless possibilities of the web fuels my passion. I constantly endeavor to get better and surpass my threshold to deliver outstanding results. I am currently crunching numbers as a frontend engineer at [Zummit Africa](https://github.com/Zummit-Africa-Inc).
 
 When I'm not coding, I love to relax by playing video games, watching anime and reading books. You can find me on [twitter](https://twitter.com/pablo_clueless) and [linkedIn](https://www.linkedin.com/in/samson-okunola/).
 
