@@ -11,4 +11,4 @@ When I'm not coding, I am coding :smile:. I like to learn more in my spare time 
 You can find most of my works in my [repo](https://github.com/pablo-clueless?tab=repositories) and some pens you can look at on [codepen](https://codepen.io/pablo-clueless)
 
 ### /learn
-I occassionally write on [hashnode](https://codenuggets.hashnode.dev/) and I have a ton of books I've read (partly and in full) on programming at [here](https://drive.google.com/drive/folders/1UlC3B2LKOA8TEpdAyPTDgKxMZFKcM8I0?usp=drive_link) and perssonal development [here](https://drive.google.com/drive/folders/15wu0eCxex0mcQ5B5HRjOVK13_VFYBsvK?usp=drive_link).
+I occassionally write on [hashnode](https://clueless-developer.hashnode.dev/) and I have a ton of books I've read (partly and in full) on programming at [here](https://drive.google.com/drive/folders/1UlC3B2LKOA8TEpdAyPTDgKxMZFKcM8I0?usp=drive_link) and perssonal development [here](https://drive.google.com/drive/folders/15wu0eCxex0mcQ5B5HRjOVK13_VFYBsvK?usp=drive_link).
