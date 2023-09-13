@@ -11,5 +11,3 @@ He is an irregular writer on [hashnode](https://clueless-developer.hashnode.dev/
 
 ### - library.
 I have a ton of books I've read (partly and in full) on programming at [here](https://drive.google.com/drive/folders/1UlC3B2LKOA8TEpdAyPTDgKxMZFKcM8I0?usp=drive_link) and personal development [here](https://drive.google.com/drive/folders/15wu0eCxex0mcQ5B5HRjOVK13_VFYBsvK?usp=drive_link).
-
-You can download my resume [here]("./Okunola Samson.pdf)
