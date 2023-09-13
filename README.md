@@ -3,12 +3,11 @@
 </p>
 
 ### /about.
-I am a full stack developer with love for coding. The endless possibilities of the web fuels my passion. I constantly endeavor to get better and surpass my threshold to deliver outstanding results. I am currently crunching numbers as a frontend engineer at [Zummit Africa](https://github.com/Zummit-Africa-Inc).
+Samson Okunola is a developer with over 3 years experience in design and development. He was born and raised in Lagos, Nigeria. He loves sleek designs, motion and 3D. The endless possibilities of the web fuels his passion. He constantly endeavor to get better and surpass his threshold and deliver outstanding results.. I am currently crunching numbers as a frontend engineer at [Zummit Africa](https://github.com/Zummit-Africa-Inc).
 
-When I'm not coding, I am coding :smile:. I like to learn more in my spare time and to the things I love. I contribute to open source at [communitypro](https://github.com/CommunityPro).  I relax by playing video games, watching anime and reading books. You can find me on [twitter](https://twitter.com/pablo_clueless) and [linkedIn](https://www.linkedin.com/in/samson-okunola/).
+As a developer, Samson's expertise includes React, Next.js, Vue, Javascript, Typescript, Expressjs and a wide range of related frameworks and libraries. He has experience with Three.js and WebGL, Python, along with CSS and Sass. Everything a web based project might need.
 
-### /porfolio
-You can find most of my works in my [repo](https://github.com/pablo-clueless?tab=repositories) and some pens you can look at on [codepen](https://codepen.io/pablo-clueless)
+He is an irregular writer on [hashnode](https://clueless-developer.hashnode.dev/), contributes to open source at [communitypro](https://github.com/CommunityPro) and play pen on [codepen](https://codepen.io/pablo-clueless).  He loves playing video games, watching anime and reading books. You can find me on [twitter](https://twitter.com/pablo_clueless) and [linkedIn](https://www.linkedin.com/in/samson-okunola/).
 
-### /learn
-I occassionally write on [hashnode](https://clueless-developer.hashnode.dev/) and I have a ton of books I've read (partly and in full) on programming at [here](https://drive.google.com/drive/folders/1UlC3B2LKOA8TEpdAyPTDgKxMZFKcM8I0?usp=drive_link) and personal development [here](https://drive.google.com/drive/folders/15wu0eCxex0mcQ5B5HRjOVK13_VFYBsvK?usp=drive_link).
+### /library
+I have a ton of books I've read (partly and in full) on programming at [here](https://drive.google.com/drive/folders/1UlC3B2LKOA8TEpdAyPTDgKxMZFKcM8I0?usp=drive_link) and personal development [here](https://drive.google.com/drive/folders/15wu0eCxex0mcQ5B5HRjOVK13_VFYBsvK?usp=drive_link).
