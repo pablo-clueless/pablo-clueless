@@ -3,7 +3,7 @@
 </p>
 
 ### - about.
-Samson Okunola is a developer with over 3 years experience in design and development. He was born and raised in Lagos, Nigeria. He is a lover of the web and the endless possibilities of the web fuels his passion. He constantly endeavor to get better and surpass his threshold and deliver outstanding results.. He is currently crunching numbers as a frontend engineer at [Zummit Africa](https://github.com/Zummit-Africa-Inc).
+Samson Okunola is a developer with over 3 years experience in design and development. He was born and raised in Lagos, Nigeria. He is a lover of the web and the endless possibilities of the web fuels his passion. He constantly endeavor to get better and surpass his threshold and deliver outstanding results. He is currently crunching numbers as lead frontend engineer at [Zummit Africa](https://github.com/Zummit-Africa-Inc).
 
 As a developer, Samson's expertise includes React, Next.js, Vue, Javascript, Typescript, Expressjs and a wide range of related frameworks and libraries. He has experience with Three.js and WebGL, Python, along with CSS and Sass. Everything a web based project might need. He also does cross-platform mobile development using React-Native.
 
