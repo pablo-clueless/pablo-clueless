@@ -1,8 +1,8 @@
 ## Hey there
 
-I'm Samson
+**I'm Samson**
 
-I'm is a developer. I'm based in Lagos, Nigeria. I'm a lover of the web and the endless possibilities it brings. I'm currently building things as an freelance developer.
+I'm a software developer. I'm based in Lagos, Nigeria. I'm a lover of the web and the endless possibilities it brings. I'm currently building things as an freelance developer.
 
 My expertise includes;
 - Js/Ts (React, React-Native Next.js, Vue, Expressjs, NestJS)
