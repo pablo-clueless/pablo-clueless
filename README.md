@@ -1,9 +1,12 @@
-<p align="center">
-   <img src="https://res.cloudinary.com/pabloclueless/image/upload/v1704414870/samson_okunola_ebg3w1.png" width="100%" >
-</p>
+## Hey there
 
-Samson Okunola is a developer with over 3 years experience in design and development. He was born and raised in Lagos, Nigeria. He is a lover of the web and the endless possibilities of the web fuels his passion. He constantly endeavor to get better and surpass his threshold and deliver outstanding results. He is currently building things as an freelance developer.
+I'm Samson
 
-As a developer, Samson's expertise includes React, Next.js, Vue, Javascript, Typescript, Expressjs and a wide range of related frameworks and libraries. He has experience with Three.js and WebGL, Python, along with CSS and Sass. Everything a web based project might need. He also does cross-platform mobile development using React-Native.
+I'm is a developer. I'm based in Lagos, Nigeria. I'm a lover of the web and the endless possibilities it brings. I'm currently building things as an freelance developer.
 
-He is an irregular writer on [hashnode](https://clueless-developer.hashnode.dev/), contributes to open source at [communitypro](https://github.com/CommunityPro) and has play pens on [codepen](https://codepen.io/pablo-clueless).  He loves playing video games, watching anime and reading books. You can find me on [twitter](https://twitter.com/pablo_clueless) and [linkedIn](https://www.linkedin.com/in/samson-okunola/).
+My expertise includes;
+- Js/Ts (React, React-Native Next.js, Vue, Expressjs, NestJS)
+- 3D Three.js and WebGL
+- Go (Fiber)
+
+I'm an irregular writer on [Hashnode](https://clueless-developer.hashnode.dev/). I loves playing video games, watching anime and reading books. You can find me on [X](https://twitter.com/pablo_clueless) and [LinkedIn](https://www.linkedin.com/in/samson-okunola/).
