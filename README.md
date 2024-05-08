@@ -4,24 +4,27 @@
 
 **I'm Samson**
 
-I'm a software developer. I'm based in Lagos, Nigeria. I'm a lover of the web and the endless possibilities it brings. I'm currently building things as a freelance developer.
+I'm a software developer. I'm based in Lagos, Nigeria. I'm a lover of the web and the endless possibilities it brings. I'm focused on building awesome digital products and creating beautiful experiences.
 
 My expertise includes;
 - Js/Ts (React, React-Native, Next.js, Vue, Expressjs, NestJS)
 - WebGL & Three.js
 - Go
 
-I'm an irregular writer on [Hashnode](https://clueless-developer.hashnode.dev/). I loves playing video games, watching anime and reading books. You can find me on [X](https://twitter.com/pablo_clueless), [LinkedIn](https://www.linkedin.com/in/samson-okunola/) and [read.cv](https://read.cv/pablo_clueless)
+I'm an irregular writer on [Hashnode](https://clueless-developer.hashnode.dev/). I love playing video games, watching anime, and reading books. You can find me on [X](https://twitter.com/pablo_clueless), [LinkedIn](https://www.linkedin.com/in/samson-okunola/) and [read.cv](https://read.cv/pablo_clueless)
 
 ## Projects
 
 ### Gigs
+- [Datarango](https://datarango.com)
+- [Touriq](https://touriq.co)
 - [Telagri](https://www.telagri.com.ng)
 - [Datarango](http://datarango.com)
 - [OlonaGirl](https://olonagirl.com)
 - [Zummit Africa](https://development.d23rav6l6c7mra.amplifyapp.com/)
 
 ### Side Projects
+- [Bettercareer](https://bettercareer.me)
 - [foglio](https://foglio.vercel.app)
 - [Traxo HQ](https://traxo-hq.vercel.app)
 - [Traxo Finance](https://master.d16z9rxqclx4lm.amplifyapp.com/)
