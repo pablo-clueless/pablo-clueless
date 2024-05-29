@@ -29,3 +29,13 @@ I'm an irregular writer on [Hashnode](https://clueless-developer.hashnode.dev/).
 - [Traxo HQ](https://traxo-hq.vercel.app)
 - [Traxo Finance](https://master.d16z9rxqclx4lm.amplifyapp.com/)
 - [Three Shirt](https://3-shirt.vercel.app)
+
+> [!NOTE]
+>
+> This
+
+> [!TIPS]
+>
+> - Always read docs
+> - Always try your best
+> - Go back to 1
