@@ -32,10 +32,9 @@ I'm an irregular writer on [Hashnode](https://clueless-developer.hashnode.dev/).
 
 > [!NOTE]
 >
-> This
 
 > [!TIP]
->
-> - Always read docs
-> - Always try your best
-> - Go back to 1
+> 
+
+> [!IMPORTANT]
+> 
