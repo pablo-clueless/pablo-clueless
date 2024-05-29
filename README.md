@@ -34,7 +34,7 @@ I'm an irregular writer on [Hashnode](https://clueless-developer.hashnode.dev/).
 >
 > This
 
-> [!TIPS]
+> [!TIP]
 >
 > - Always read docs
 > - Always try your best
