@@ -4,7 +4,7 @@
 
 **I'm Samson**
 
-I'm a software developer. I'm based in Lagos, Nigeria. I'm a lover of the web and the endless possibilities it brings. I'm focused on building awesome digital products and creating beautiful experiences.
+I'm a software engineer. I'm based in Lagos, Nigeria. I'm a lover of the web and the endless possibilities it brings. I'm focused on building awesome digital products and creating beautiful experiences.
 
 My expertise includes;
 - Js/Ts (React, React-Native, Next.js, Vue, Expressjs, NestJS)
