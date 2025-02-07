@@ -1,14 +1,15 @@
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=Samson%20Okunola)](mailto:okunolasamson@gmail.com) [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white&label=pablo_clueless)](https://x.com/pablo_clueless) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&label=Samson%20Okunola)](https://linkedin.com/in/samson-okunola)
+![okunola samson](https://res.cloudinary.com/pabloclueless/image/upload/v1725832180/okunola_samson_mo4lzc.png)
 
-## Hey there
+### Hey there 👋
 
-**I'm Samson**
+## **I'm Okunola Samson**
 
-I'm a software engineer. I'm based in Lagos, Nigeria. I'm a lover of the web and the endless possibilities it brings. I'm focused on building awesome digital products and creating beautiful experiences.
+I'm a software engineer of over half a decade based in Lagos, Nigeria. I currently work at [Optimus AI Labs](https://www.optimusai.ai/) as a software engineer. I'm passionate about building software that solves real-world problems. I write TypeScript, Golang and C#. I am currently learning Rust and distributed systems. I have grown to love simple design patterns, clean code, and good architecture.
 
-My expertise includes;
-- Js/Ts (React, React-Native, Next.js, Vue, Expressjs, NestJS)
-- Go
-- C# (ASP.Net WebAPI)
+I'm an irregular writer on [Hashnode](https://clueless-developer.hashnode.dev/). I love playing video games, watching anime, and reading books. I am big fan of minimalism.
 
-I'm an irregular writer on [Hashnode](https://clueless-developer.hashnode.dev/). I love playing video games, watching anime, and reading books. You can find me on [X](https://twitter.com/pablo_clueless), [LinkedIn](https://www.linkedin.com/in/samson-okunola/) and [read.cv](https://read.cv/pablo_clueless)
+- [GMail](mailto:okunolasamson@gmail.com)
+- [X (Twitter)](https://x.com/pablo_clueless)
+- [LinkedIn](https://linkedin.com/in/samson-okunola)
+
+![pablo-clueless's stats](https://github-readme-stats.vercel.app/api?username=pablo-clueless&theme=blueberry&show_icons=true&hide_border=false&count_private=true)
