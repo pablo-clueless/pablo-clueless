@@ -17,3 +17,12 @@ I'm an irregular writer on [Hashnode](https://clueless-developer.hashnode.dev/).
 - [LinkedIn](https://linkedin.com/in/samson-okunola)
 
 ![pablo-clueless's stats](https://github-readme-stats.vercel.app/api?username=pablo-clueless&theme=blueberry&show_icons=true&hide_border=false&count_private=true)
+
+<div align="center">
+  <a href="https://commit-history.com/pablo-clueless">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/pablo-clueless?theme=dark" />
+      <img alt="pablo-clueless's commit history" src="https://commit-history.com/embed/pablo-clueless" />
+    </picture>
+  </a>
+</div>
