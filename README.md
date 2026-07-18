@@ -16,9 +16,6 @@ I'm an irregular writer on [Hashnode](https://clueless-developer.hashnode.dev/).
 - [X (Twitter)](https://x.com/pablo_clueless)
 - [LinkedIn](https://linkedin.com/in/samson-okunola)
 
-![pablo-clueless's stats](https://github-readme-stats.vercel.app/api?username=pablo-clueless&theme=blueberry&show_icons=true&hide_border=false&count_private=true)
-
-
 <div align="center">
   <a href="https://commit-history.com/pablo-clueless">
     <picture>
@@ -27,3 +24,5 @@ I'm an irregular writer on [Hashnode](https://clueless-developer.hashnode.dev/).
     </picture>
   </a>
 </div>
+
+![pablo-clueless's stats](https://github-readme-stats.vercel.app/api?username=pablo-clueless&theme=blueberry&show_icons=true&hide_border=false&count_private=true)
